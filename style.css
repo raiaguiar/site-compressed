@@ -228,10 +228,10 @@ footer.medias-sociais i {
         transition: .3s ease-in
     }
 
-    nav ul.active {
+     nav ul.active {
+        margin-top: 20px;
         position: fixed;
         flex-direction: column;
-        transition: .3s ease-in;
         transform: translateX(0);
         display: flex;
         background-color: #fff
