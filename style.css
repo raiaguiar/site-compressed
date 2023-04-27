@@ -102,6 +102,7 @@ nav ul li a {
     color: #202022
 }
 
+
 .dp-menu ul {
     margin: 0;
     padding: 0;
@@ -353,7 +354,7 @@ nav ul li a {
 footer {
     bottom: 0;
     width: 100%;
-    padding: 10px 0 100px;
+    padding: 10px 0 150px;
     text-align: center
 }
 
