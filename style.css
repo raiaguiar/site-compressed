@@ -201,16 +201,6 @@ footer.medias-sociais i {
     
 
 }
-nav ul.active {
-        position: fixed;
-        flex-direction: column;
-        transition: .3s ease-in;
-        transform: translateX(0);
-        display: flex;
-        background-color: #fff
-    }
-
-
 @media (max-width:970px) {
     nav .menu-icon {
         display: block
