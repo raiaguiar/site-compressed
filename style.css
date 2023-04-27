@@ -102,20 +102,6 @@ nav ul li a {
     color: #202022
 }
 
-footer.medias-sociais {
-    margin-top: 30px
-}
-
-footer.medias-sociais a {
-    text-decoration: none
-}
-
-footer.medias-sociais i {
-    font-size: 23px;
-    margin: 0 3px;
-    padding: 7px
-}
-
 .dp-menu ul {
     margin: 0;
     padding: 0;
@@ -367,7 +353,7 @@ footer.medias-sociais i {
 footer {
     bottom: 0;
     width: 100%;
-    padding: 10px 0 20px;
+    padding: 10px 0 100px;
     text-align: center
 }
 
@@ -382,7 +368,7 @@ footer {
 }
 
 .meu-iframe {
-    border: 30px;
+    border: 100px;
     display: none
 }
 
