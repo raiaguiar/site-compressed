@@ -201,6 +201,9 @@ footer.medias-sociais i {
     
 
 }
+
+
+
 @media (max-width:970px) {
     nav .menu-icon {
         display: block
@@ -228,7 +231,7 @@ footer.medias-sociais i {
         transition: .3s ease-in
     }
 
-     nav ul.active {
+    nav ul.active {
         margin-top: 20px;
         position: fixed;
         flex-direction: column;
@@ -278,6 +281,7 @@ footer.medias-sociais i {
     }
 
     ul.active {
+        height: 240px;
         border: 1px solid rgba(158, 120, 38, 0.5);
         /* borda preta com 50% de opacidade */
     }
