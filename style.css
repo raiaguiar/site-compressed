@@ -192,6 +192,9 @@ nav ul li a {
 
 
 @media (max-width:970px) {
+    *{
+     box-sizing: border-box;
+    }
     nav .menu-icon {
         display: block
     }
